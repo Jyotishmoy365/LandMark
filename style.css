@@ -1,0 +1,44 @@
+.hero {
+    background-image: url('/www.ratepersqft.com-1700024514384/PhotoReal_building_images_a_big_city_3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 900px;
+}
+.investment {
+    background-image: url('/www.ratepersqft.com-1700024514384/Investment.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.resident {
+    background-image: url('/www.ratepersqft.com-1700024514384/residential.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    border-radius: 10px;
+    text-shadow: 2px 2px rgb(197, 197, 197);
+}
+.commercial {
+    background-image: url('/www.ratepersqft.com-1700024514384/commercial_space.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    border-radius: 10px;
+    text-shadow: 2px 2px rgb(197, 197, 197);
+}
+.industrial {
+    background-image: url('/www.ratepersqft.com-1700024514384/PhotoReal_warehouse_0.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    border-radius: 10px;
+    text-shadow: 2px 2px rgb(197, 197, 197);
+}
+.land {
+    background-image: url('/www.ratepersqft.com-1700024514384/PhotoReal_rice_farm_from_top_0.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    border-radius: 10px;
+    text-shadow: 2px 2px rgb(197, 197, 197);
+}
